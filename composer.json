@@ -1,0 +1,7 @@
+{
+    "name": "smollandc/register",
+    "description": "Just to register smollandc namespace",
+    "type": "library",
+    "license": "MIT",
+    "require": {}
+}
